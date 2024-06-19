@@ -2279,3 +2279,10 @@ ol {
 	color: #032536;
 
 }
+
+.gyunri {
+	margin-top: 50px;
+	border-top: 2px solid orange;
+	padding: 30px;
+	height: 150px;
+}

@@ -36,7 +36,6 @@ body {
 	height: 100%;
 	font-family: "Montserrat", sans-serif;
 	-webkit-font-smoothing: antialiased;
-	font-smoothing: antialiased;
 	background: none;
 }
 
@@ -47,7 +46,7 @@ h4,
 h5,
 h6 {
 	margin: 0;
-	color: #111111;
+	color: #585555;
 	font-weight: 500;
 	font-family: "Montserrat", sans-serif;
 }
@@ -2286,3 +2285,67 @@ ol {
 	padding: 30px;
 	height: 150px;
 }
+
+.nana {
+	font-family: sans-serif;
+	font-size: 19px;
+	color: #858181;
+}
+
+.eliora { 
+	background-color: #032536;
+}
+
+/* Vertical Menu */
+
+.vertical-menu {
+	width: 200px; 
+	text-align: center;
+	
+  }
+  
+  .vertical-menu a {
+	background-color: #033a5a; 
+	color: whitesmoke; 
+	display: block; 
+	padding: 12px; 
+	text-decoration: none;
+	border-bottom: 1px solid white; 
+  }
+  
+  .vertical-menu a:hover {
+	background-color: #f0a606; 
+  }
+  
+  .vertical-menu a.active {
+	background-color: #5a1823; 
+	color: white;
+  }
+  
+  .right {
+	width: 750px;
+  }
+  
+  .monthly {
+	font-family: sans-serif;
+	font-size: 19px;
+	text-align: justify;
+  }
+  
+  .monthly-2 {
+	font-family: sans-serif;
+	font-size: 20px;
+	text-align: justify;
+	font-weight: bold;
+  }
+  
+  .icon {
+	width: 64px;
+	height: 64px;
+  }
+
+  .emily {
+	border: 1px solid orange;
+	padding: 50px;
+	width: 600px;
+  }
